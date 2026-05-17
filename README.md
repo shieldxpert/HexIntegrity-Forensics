@@ -1,4 +1,6 @@
-# HexIntegrity Forensics Advanced Tactical Suite
+# IN THE ABSENCE OF TRACEABLE EVIDENCE, RAW HARDWARE IS THE ULTIMATE WITNESS...
+
+![HEX](hex.png)
 
 ![HexIntegrity Logo](HexIntegrity_forensics.png)
 
