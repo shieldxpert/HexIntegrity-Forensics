@@ -1,10 +1,16 @@
-# HexIntegrity Forensics — Advanced Tactical Suite
+# HexIntegrity Forensics Advanced Tactical Suite
 
 ![HexIntegrity Logo](HexIntegrity_forensics.png)
 
+![HexIntegrity Forensics Interface](interfaz_win.png)
+
+![HexIntegrity Forensics Interface](interfaz_lin.png)
+
+
+
 ![Python](https://img.shields.io/badge/Python-3.8%2B-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tkinter](https://img.shields.io/badge/CustomTkinter-UI-1572B6?style=for-the-badge&logo=figma&logoColor=white)
 ![Zenity](https://img.shields.io/badge/Zenity-POSIX_Dialogs-4EAA25?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Forensic_Grade-red?style=for-the-badge&logo=security&logoColor=white)
@@ -88,8 +94,6 @@ Control buttons: btn_min_off.png, btn_min_on.png, btn_cerrar_off.png, btn_cerrar
 Windows Deployment (CMD)
 Open your Windows Command Prompt (CMD).
 
-![HexIntegrity Forensics Interface](interfaz_win.png)
-
 Use the cd (Change Directory) command to navigate to the folder you just created. Make sure to use quotes if your folder name has spaces. Replace the example with your actual path: cd "C:\Users\User\Desktop\folder name"
 
 Execute the plaintext file to initialize the automated compilation phase: python main.py
@@ -106,9 +110,6 @@ Close the terminal. In your folder, you will see the new binary HexIntegrity_for
 Double-click on it. Windows will intercept the call via UAC requesting Administrator Permissions. Accept to grant the engine the NT AUTHORITY\SYSTEM privilege and evade the file system logical layer.
 
 Linux Deployment (WSL, Manjaro, Ubuntu, Debian)
-
-![HexIntegrity Forensics Interface](interfaz_lin.png)
-
 
 In UNIX distributions, disk mapping is performed directly on the root directory or mount points. To deploy the graphical interface for native menus, installing the zenity dependency is mandatory.
 
