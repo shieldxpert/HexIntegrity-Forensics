@@ -8,7 +8,7 @@
 ![Tkinter](https://img.shields.io/badge/CustomTkinter-UI-1572B6?style=for-the-badge&logo=figma&logoColor=white)
 ![Zenity](https://img.shields.io/badge/Zenity-POSIX_Dialogs-4EAA25?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Forensic_Grade-red?style=for-the-badge&logo=security&logoColor=white)
-![License](https://img.shields.io/badge/License-Proprietary-black?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 > *"The operating system tells you the file no longer exists; the hardware knows it’s lying to you. Welcome to ground zero of the data."*
 
